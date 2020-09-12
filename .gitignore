@@ -1,0 +1,7 @@
+# flask
+finance.db
+*.pyc
+__pycache__
+
+# ignore vsc folder 
+.vscode/*
